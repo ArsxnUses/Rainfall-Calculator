@@ -50,6 +50,7 @@ public class RainfallCalculator {
         System.out.println("Your average rainfall this year was " + totalAverageInches + " inches a month");
         System.out.println("you had a total of " + totalMonthAbove10 + " months with more than 10 inches of rainfall");
         System.out.println("you had a total of " + totalMonthBelow3 + " months with less than 3 inches of rainfall");
-        
+
+	    
     }
 }
